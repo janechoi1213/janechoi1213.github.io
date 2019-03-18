@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Data Scientist
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jane Choi. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
